@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[https://rio-11ty-blog.netlify.app/](https://rio-11ty-blog.netlify.app/)
+[https://silver-11ty-blog.netlify.app/](https://silver-11ty-blog.netlify.app/)
 
 ## Built With
 
